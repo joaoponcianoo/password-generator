@@ -18,10 +18,10 @@ Este projeto consiste em uma aplicação web básica que permite aos usuários g
 - CSS (PICO CSS)
 - JavaScript
 
-## Como Usar
+## Clone
+```bash
+git clone https://github.com/joaoponcianoo/password-generator.git
+```
 
-1. Clone este repositório em sua máquina local:
-   ```bash
-   git clone https://github.com/joaoponcianoo/password-generator.git
-
+## Preview 
 ![image](https://github.com/joaoponcianoo/password-generator/assets/115370264/77fd068d-c8ba-4e14-b700-f53edfba65d6)
