@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body>
+    <article>
+      <h3>Generate Password</h3>
+      
+      <label for="numberLength">Number of Characters</label>
+      <fieldset role="group">
+        <input id="passwordLength" type="number" value="10" disabled />
+        <button id="buttonSub" class="action"><strong>-</strong></button>
+        <button id="buttonAdd" class="action"><strong>+</strong></button>
+      </fieldset>
+
+      <label> 
+        <input type="checkbox" id="upperCases" /> 
+        Upper Cases 
+      </label>
+      <label>
+        <input type="checkbox" id="specialCharacteres" /> 
+        Special Characters
+      </label>
+      <label> 
+        <input type="checkbox" id="number" /> 
+        Number 
+      </label>
+
+      <label for="passwordResult">Password</label>
+      <input id="passwordResult" type="text" disabled />
+
+      <button id="buttonGen" class="action">Generate</button>
+    </article>
+  </body>
+  <script src="script.js"></script>
+</html>
