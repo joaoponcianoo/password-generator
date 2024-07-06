@@ -23,5 +23,6 @@ Este projeto consiste em uma aplicação web básica que permite aos usuários g
 git clone https://github.com/joaoponcianoo/password-generator.git
 ```
 
-## Preview 
-![image](https://github.com/joaoponcianoo/password-generator/assets/115370264/77fd068d-c8ba-4e14-b700-f53edfba65d6)
+## Preview
+![image](https://github.com/joaoponcianoo/password-generator/assets/115370264/4a043f7a-4775-426f-9ed9-450c047bd785)
+
